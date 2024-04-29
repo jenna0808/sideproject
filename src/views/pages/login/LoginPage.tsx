@@ -11,9 +11,9 @@ const LoginPage = () => {
       <S.Container>
         <S.Brand>
           <p>My</p>
-          Diary
+          APP
         </S.Brand>
-        <LoginInputGroup useButton title={""} />
+        <LoginInputGroup />
         <S.Signin>
           <Link href={""}>Sign in</Link>
         </S.Signin>
